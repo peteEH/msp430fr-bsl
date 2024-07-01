@@ -20,3 +20,5 @@ Includes a 'debug adaptor' - which can be any +3.3V development board.
 - The Pico communicates to the host over fast serial (native USB serial)
 - The Pico forwards bytes to/from the target at it's less common 9600/8E1 serial port config
 - Since the BSL has specific host-to-target message headers/framing - we can use in-band signalling to control the MSP430 target hardware.
+
+https://github.com/peteEH/pico-msp430-debug
