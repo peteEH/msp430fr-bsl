@@ -11,7 +11,7 @@ After wasting a bit of time on this, I figured why not start looking into the RO
 
 ## Python BSL
 
-A python serial boot loader CLI for MSP430FR series microcontrollers.
+A python serial boot loader CLI for MSP430FR series microcontrollers. This has also been converted to a graphical interface.
 
 ## Serial Debug Adaptor
 
